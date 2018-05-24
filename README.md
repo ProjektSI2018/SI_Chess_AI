@@ -1,6 +1,3 @@
-Sprawozdanie:
-https://docs.google.com/document/d/1z74oJI0reWUhoS3xGHMSKUIFdcfTtuqMRJEXv2THXS8/edit#
-
 By włączyć projekt należy:
 1) Włączyć Visual Studio
 2) Stworzyć nowy projekt (File->New->Project... lub Ctrl+Shift+N)
